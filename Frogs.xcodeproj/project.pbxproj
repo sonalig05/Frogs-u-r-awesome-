@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7CDF3C14243D1ECA00AB45E6 /* Frogs(u r awesome?).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Frogs(u r awesome?).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7CDF3C14243D1ECA00AB45E6 /* Frogs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Frogs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CDF3C17243D1ECA00AB45E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7CDF3C19243D1ECA00AB45E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7CDF3C1B243D1ECA00AB45E6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		7CDF3C0B243D1ECA00AB45E6 = {
 			isa = PBXGroup;
 			children = (
-				7CDF3C16243D1ECA00AB45E6 /* Frogs(u r awesome?) */,
+				7CDF3C16243D1ECA00AB45E6 /* Frogs */,
 				7CDF3C15243D1ECA00AB45E6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		7CDF3C15243D1ECA00AB45E6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7CDF3C14243D1ECA00AB45E6 /* Frogs(u r awesome?).app */,
+				7CDF3C14243D1ECA00AB45E6 /* Frogs.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7CDF3C16243D1ECA00AB45E6 /* Frogs(u r awesome?) */ = {
+		7CDF3C16243D1ECA00AB45E6 /* Frogs */ = {
 			isa = PBXGroup;
 			children = (
 				7CDF3C17243D1ECA00AB45E6 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				7CDF3C22243D1ECC00AB45E6 /* LaunchScreen.storyboard */,
 				7CDF3C25243D1ECC00AB45E6 /* Info.plist */,
 			);
-			path = "Frogs(u r awesome?)";
+			path = Frogs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7CDF3C13243D1ECA00AB45E6 /* Frogs(u r awesome?) */ = {
+		7CDF3C13243D1ECA00AB45E6 /* Frogs */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7CDF3C28243D1ECC00AB45E6 /* Build configuration list for PBXNativeTarget "Frogs(u r awesome?)" */;
+			buildConfigurationList = 7CDF3C28243D1ECC00AB45E6 /* Build configuration list for PBXNativeTarget "Frogs" */;
 			buildPhases = (
 				7CDF3C10243D1ECA00AB45E6 /* Sources */,
 				7CDF3C11243D1ECA00AB45E6 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Frogs(u r awesome?)";
+			name = Frogs;
 			productName = "Frogs(u r awesome?)";
-			productReference = 7CDF3C14243D1ECA00AB45E6 /* Frogs(u r awesome?).app */;
+			productReference = 7CDF3C14243D1ECA00AB45E6 /* Frogs.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7CDF3C0F243D1ECA00AB45E6 /* Build configuration list for PBXProject "Frogs(u r awesome?)" */;
+			buildConfigurationList = 7CDF3C0F243D1ECA00AB45E6 /* Build configuration list for PBXProject "Frogs" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7CDF3C13243D1ECA00AB45E6 /* Frogs(u r awesome?) */,
+				7CDF3C13243D1ECA00AB45E6 /* Frogs */,
 			);
 		};
 /* End PBXProject section */
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7CDF3C0F243D1ECA00AB45E6 /* Build configuration list for PBXProject "Frogs(u r awesome?)" */ = {
+		7CDF3C0F243D1ECA00AB45E6 /* Build configuration list for PBXProject "Frogs" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7CDF3C26243D1ECC00AB45E6 /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7CDF3C28243D1ECC00AB45E6 /* Build configuration list for PBXNativeTarget "Frogs(u r awesome?)" */ = {
+		7CDF3C28243D1ECC00AB45E6 /* Build configuration list for PBXNativeTarget "Frogs" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7CDF3C29243D1ECC00AB45E6 /* Debug */,
